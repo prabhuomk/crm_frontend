@@ -1,0 +1,51 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+.chart {
+  margin: 20px;
+  padding: 20px;
+  -webkit-box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+  box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+}
+
+.chartTitle {
+  margin-bottom: 20px;
+}
+
+.forget-password .panel-default {
+  padding: 31%;
+  margin-top: -27%;
+}
+.forget-password .panel-body {
+  padding: 15%;
+  margin-bottom: -50%;
+  background: #fff;
+  border-radius: 5px;
+  -webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2),
+    0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.Icon {
+  width: 40%;
+  margin-bottom: 10%;
+}
+
+.Myform {
+  background-color: lightblue;
+  padding: 10px;
+  margin: auto;
+  border-radius: 5%;
+}
+
+.Editform {
+  background-color: lightblue;
+  width: 25%;
+  padding: 10px;
+  margin: auto;
+  border-radius: 5%;
+}
